@@ -12,3 +12,12 @@ console.log(" thats right!")
 
 const sum = addTwo(3,4)
 console.log (sum)
+// console.log (sum)
+// const sum = addTwo(3,4)
+
+const subtract = require('./minus.js')
+const total = subtract(10,5)
+console.log(total)
+
+
+
